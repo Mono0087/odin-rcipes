@@ -1,0 +1,38 @@
+*{
+    }
+body {
+    background-color: rgb(233, 189, 189);
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.title-1 {
+    text-align: center;
+    font-size: 62px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.desc{
+    text-align: center;
+}
+
+.list {
+    color: brown;
+    font-size: 36px;
+}
+
+a {
+    color: black;
+
+}
+
+a:visited {
+    color: rgb(81, 77, 77);
+}
+
+.recipe-img {
+    width: 600px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
